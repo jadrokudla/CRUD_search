@@ -4,5 +4,5 @@
 ## 📸 Screenshots
 <h2>MVC product CRUD</h2>
 <h3>1. index</h3>
-<img src="1index.png" alt="" width="100">
+<img src="1index.png" alt="" width="1000">
 
