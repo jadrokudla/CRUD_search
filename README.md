@@ -9,22 +9,22 @@
 <h3>2. View page of product</h3>
 <img src="2show.png" alt="" width="1000">
 
-<h3>3a. Before create product</h3>
+<h3>3. a) Before create product</h3>
 <img src="3before_create.png" alt="" width="1000">
 
-<h3>3b. After create product</h3>
+<h3>3. b) After create product</h3>
 <img src="3after_create.png" alt="" width="1000">
 
-<h3>4a. Before edit product</h3>
+<h3>4. a) Before edit product</h3>
 <img src="4before_edit.png" alt="" width="1000">
 
-<h3>4b. After edit product</h3>
+<h3>4. b) After edit product</h3>
 <img src="4after_edit.png" alt="" width="1000">
 
-<h3>5a. Before delete product</h3>
+<h3>5. a) Before delete product</h3>
 <img src="5before_delete.png" alt="" width="1000">
 
-<h3>5b. After delete product</h3>
+<h3>5. b) After delete product</h3>
 <img src="5after_delete.png" alt="" width="1000">
 
 <h3>6. Error handler</h3>
